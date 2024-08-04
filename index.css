@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    background-color: green;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f{
+    margin-top: 1rem;
+    display: flex;
+    margin-left: 42rem;
+}
+.f p{
+    margin-left: 0.5rem;
+    font-size: 2.6rem;
+}
+.f h1{
+    color: yellow;
+}
